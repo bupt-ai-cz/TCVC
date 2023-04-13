@@ -1,4 +1,4 @@
-#TCVC
+TCVC
 ----------
 This is the code for paper "Temporal Consistent Automatic Video Colorization via Semantic Correspondence"
 
