@@ -1,0 +1,18 @@
+test.py 2023-03-31 06:36:50
+------------ Options -------------
+batch_size: 8
+checkpoint_dir: ./stage1/checkpoints
+color_prior: [0.5, 0.5, 0.5, 0.5]
+data_root_val: /dataset/videvo/test/imgs
+epoch: 40
+gpu_ids: 0,1
+ic: 4
+image_size: [216, 384]
+local_rank: 0
+resume_iter: 342000
+strict_load: True
+test_video_output_path: ./stage1_test_results
+test_video_size: [480, 848]
+video_size: [268, 480]
+workers: 4
+-------------- End ----------------
