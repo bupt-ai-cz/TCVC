@@ -1,6 +1,8 @@
-# NTIRE 2023 Video Colorization Challenge 
+#TCVC
+----------
+This is the code for paper "Temporal Consistent Automatic Video Colorization via Semantic Correspondence"
 
-## Track 2: Color Distribution Consistency (CDC) Optimization
+Our method achieves the 3rd place in NTIRE 2023 Video Colorization Challenge, Track 2: Color Distribution Consistency (CDC) Optimization
 
 To run the test code, please modify the "--data_root_val" in ./stage1/test.py  and  "--test_path" in ./stage2/inference_colorvid.py to the path of the test dataset.
 
@@ -16,17 +18,10 @@ Any problem about the implementation, please contact sqchen@bupt.edu.cn
 
 ## related articles
 
-@misc{exemplarvcld,      
-
-​			title={Exemplar-based Video Colorization with Long-term Spatiotemporal Dependency},       
-
-​			author={Siqi Chen and Xueming Li and Xianlin Zhang and Mingdao Wang and Yu Zhang and Jiatong Han and Yue Zhang},      
-
-​			year={2023},      
-
-​			eprint={2303.15081},      
-
-​			archivePrefix={arXiv},      
-
-​			primaryClass={cs.CV} }
+    @misc{exemplarvcld,      
+        title={Exemplar-based Video Colorization with Long-term Spatiotemporal Dependency},       
+        author={Siqi Chen and Xueming Li and Xianlin Zhang and Mingdao Wang and Yu Zhang and Jiatong Han and Yue Zhang},      
+        year={2023},      
+        eprint={2303.15081},      
+        archivePrefix={arXiv}}
 
