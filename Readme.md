@@ -1,4 +1,4 @@
-# TCVC
+# Temporal Consistent Automatic Video Colorization via Semantic Correspondence ![visitors](https://visitor-badge.glitch.me/badge?page_id=bupt-ai-cz.TCVC)
 [Project](https://bupt-ai-cz.github.io/TCVC/)
 ----------
 This is the code for paper "Temporal Consistent Automatic Video Colorization via Semantic Correspondence"
