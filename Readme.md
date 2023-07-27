@@ -15,7 +15,7 @@ Please run test.sh to test the model.
 
 The checkpoint 342000 in stage1 is finetuned for the NTIRE2023 video colorization challenge. And 340000 is the model we used in the paper. 
 
-Model can be download in [Model_Released](https://bupteducn-my.sharepoint.com/personal/sqchen_bupt_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsqchen%5Fbupt%5Fedu%5Fcn%2FDocuments%2FTCVC&ga=1)
+Model can be download in [Model_Released](https://bupteducn-my.sharepoint.com/:f:/g/personal/sqchen_bupt_edu_cn/EpvAXQn1xAlMhuJt12cmnjAB-EMAW05L7IJCjE8umHdUbg?e=2LVCTp)
 
 Any problem about the implementation, please contact sqchen@bupt.edu.cn
 
